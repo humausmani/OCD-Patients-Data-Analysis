@@ -26,16 +26,25 @@ The Primary dataset used for this analysis is "OCD Patient Dataset_ Demographics
  
   ## Results/ Findings
 
+  ### Dashboard
+
+   ![Dashboard](https://github.com/user-attachments/assets/794a6810-1787-448a-9433-23b98ef0f9c8)
+
   The analysis  results are summerized as follows:
 
   #### Gender Distribution:
 
    The analysis reveals that 753 of affected individuals are male, while 747 are females. This almost balanced distribution suggests that OCD does not exhibit a strong gender bias among the studied population.
 
+  ![Gender](https://github.com/user-attachments/assets/cb697c68-1b2b-4821-9585-56460c0a173e)
 
+  
   #### Ethnicity Distribution:
 
   Causasian individuals show the highest prevalence of OCD, with 398 patients, followed closely by Hispanic and Asian groups with 392 and 386 patients respectively. Africans appear to be the least affected ethnic group, with 324 cases.
+
+  ![Ethnicity](https://github.com/user-attachments/assets/030eac12-9a08-4181-865a-bc687077f3b3)
+
 
   #### Correlation of Patient's age and Obsession type:
 
@@ -43,11 +52,17 @@ The Primary dataset used for this analysis is "OCD Patient Dataset_ Demographics
   Religious obsession is most prevalence in age range of 20-40 years.
   Patients with age below 20 years are least affected by any obsession type.
 
+  ![Obsession Type](https://github.com/user-attachments/assets/c7facaea-4349-4ce5-a0b3-78e12d528dd0)
+
+
   #### Correlation of Patient's age and Compulsion type:
 
   In term of compulsion type washing is the most frequent in all age ranges, specifically with age range of 40-60 years, followed by counting.
   Checking compulsion is most prevalence in age  range 20-40 years.
   Patients with age range below 20 years is least affected by all compulsion types.
+
+  ![compulsion type](https://github.com/user-attachments/assets/f90db566-437a-4a8f-9ea3-9ec940f724ec)
+
 
   #### OCD Medications:
 
@@ -55,10 +70,14 @@ The Primary dataset used for this analysis is "OCD Patient Dataset_ Demographics
   - Benzodiazepine 26%
   - SNRI 25%
   - SSRE 23%
- 
+
+![medication](https://github.com/user-attachments/assets/3ceb6e98-f4ae-4aa0-90ec-55da072c9ec5)
+
   #### Previous Diagnosis:
 
   Previous Diagnosis analysis reveals 25% of OCD Patients do not have any previous Diagnosis. While most common previous Diagnosis is PTSD which is 25% followed by MDD and Panic Disorder both 17% each.
+
+![Previous Diagnosis](https://github.com/user-attachments/assets/c9ca56c5-8544-4c7a-a4f6-288cc8f8070e)
 
 ## Recommendation
 
