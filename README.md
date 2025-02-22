@@ -16,20 +16,24 @@ Exploratory data analysis on a dataset containing demographic and clinical data 
 
 This data analysis project aims to provide insights on understanding the relationships between various demographic factors and clinical outcomes of OCD Patients. By analysing various aspects of OCD severity based on different factos.
 
+### Excel Project Link:
+
+https://1drv.ms/x/c/0110e6040e2b2a7e/Eap2xbE9AdhDvpkv9wgKQVQB0xYCtHQVsRCMPOPlzmljTA?e=23z4mV
+
 ## Data Sourse:
 
 The Primary dataset used for this analysis is "OCD Patient Dataset_ Demographics & Clinical Data" which is a Microsoft Excel Comma Seperated Values (CVS) File provided by "Unified Mentor" for internship.
 
 ## Tools: 
 
-###Excel
+### Excel
 - Extracting Data-  Power query Editor(PQE)
 - Cleaning & Transforming Data- PQE Tools - Filtering,Conditional formating
 - Data Modelling - Power Pivot
 - Data Analysis - Pivot Tables
 - Visulizing/ Dashboard- Charts, Slicer
 
-  ## Exploratory Data Analysis 
+ ## Exploratory Data Analysis 
   
 - Are there differences in OCD severity based on gender or Ethnicity? 
 - Is there a correlation  between OCD types with age and Y-BOCS score?
@@ -41,9 +45,6 @@ The Primary dataset used for this analysis is "OCD Patient Dataset_ Demographics
   ### Dashboard
 
    ![Dashboard](https://github.com/user-attachments/assets/794a6810-1787-448a-9433-23b98ef0f9c8)
-
-
-https://1drv.ms/x/c/0110e6040e2b2a7e/Eap2xbE9AdhDvpkv9wgKQVQB0xYCtHQVsRCMPOPlzmljTA?e=23z4mV
 
 The analysis  results are summerized as follows:
 
