@@ -14,7 +14,7 @@ Exploratory data analysis on a dataset containing demographic and clinical data 
 
 ## Project Overview:
 
-This data analysis project aims to provide insights on understanding the relationships between various demographic factors and clinical outcomes of OCD Patients. By analysing various aspects of OCD severity based on different factos.
+This data analysis project aims to provide insights on understanding the relationships between various demographic factors and clinical outcomes of OCD Patients. By analysing various aspects of OCD severity based on different facts.
 
 ### Excel Project Link:
 
